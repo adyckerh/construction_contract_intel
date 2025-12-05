@@ -1,0 +1,178 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Contract {
+  id            String          @id @default(cuid())
+  name          String
+  fileName      String
+  filePath      String
+  fileSize      Int
+  status        ContractStatus  @default(PENDING)
+  projectName   String?
+  owner         String?
+  contractor    String?
+  totalValue    Float?
+  startDate     DateTime?
+  endDate       DateTime?
+  rawText       String?         @db.Text
+  createdAt     DateTime        @default(now())
+  updatedAt     DateTime        @updatedAt
+
+  terms         ExtractedTerm[]
+  changeOrders  ChangeOrder[]
+  notifications Notification[]
+}
+
+model ExtractedTerm {
+  id            String        @id @default(cuid())
+  contractId    String
+  contract      Contract      @relation(fields: [contractId], references: [id], onDelete: Cascade)
+  
+  category      TermCategory
+  title         String
+  description   String        @db.Text
+  value         String?
+  dueDate       DateTime?
+  parties       String[]
+  sourceSection String?
+  sourcePage    Int?
+  confidence    Float         @default(0.8)
+  originalText  String?       @db.Text
+  isActive      Boolean       @default(true)
+  
+  createdAt     DateTime      @default(now())
+  updatedAt     DateTime      @updatedAt
+
+  termChanges   TermChange[]
+}
+
+model ChangeOrder {
+  id            String            @id @default(cuid())
+  contractId    String
+  contract      Contract          @relation(fields: [contractId], references: [id], onDelete: Cascade)
+  
+  title         String
+  description   String?           @db.Text
+  fileName      String?
+  filePath      String?
+  submittedBy   String
+  status        ChangeOrderStatus @default(PENDING)
+  impactSummary String?           @db.Text
+  
+  createdAt     DateTime          @default(now())
+  updatedAt     DateTime          @updatedAt
+
+  termChanges   TermChange[]
+  approvals     Approval[]
+}
+
+model TermChange {
+  id              String        @id @default(cuid())
+  changeOrderId   String
+  changeOrder     ChangeOrder   @relation(fields: [changeOrderId], references: [id], onDelete: Cascade)
+  
+  termId          String
+  term            ExtractedTerm @relation(fields: [termId], references: [id], onDelete: Cascade)
+  
+  changeType      ChangeType
+  previousValue   String?       @db.Text
+  proposedValue   String?       @db.Text
+  reason          String?       @db.Text
+  status          ChangeStatus  @default(PENDING)
+  
+  createdAt       DateTime      @default(now())
+  updatedAt       DateTime      @updatedAt
+}
+
+model Approval {
+  id            String         @id @default(cuid())
+  changeOrderId String
+  changeOrder   ChangeOrder    @relation(fields: [changeOrderId], references: [id], onDelete: Cascade)
+  
+  approverRole  String
+  approverName  String?
+  status        ApprovalStatus @default(PENDING)
+  comments      String?        @db.Text
+  decidedAt     DateTime?
+  
+  createdAt     DateTime       @default(now())
+  updatedAt     DateTime       @updatedAt
+}
+
+model Notification {
+  id          String           @id @default(cuid())
+  contractId  String?
+  contract    Contract?        @relation(fields: [contractId], references: [id], onDelete: Cascade)
+  
+  type        NotificationType
+  title       String
+  message     String           @db.Text
+  isRead      Boolean          @default(false)
+  actionUrl   String?
+  
+  createdAt   DateTime         @default(now())
+}
+
+// Enums
+enum ContractStatus {
+  PENDING
+  PROCESSING
+  EXTRACTED
+  ERROR
+}
+
+enum TermCategory {
+  DEADLINE
+  PAYMENT
+  SCOPE
+  RESPONSIBILITY
+  SPECIFICATION
+  WARRANTY
+  INSURANCE
+  PENALTY
+  OTHER
+}
+
+enum ChangeOrderStatus {
+  PENDING
+  UNDER_REVIEW
+  APPROVED
+  REJECTED
+  IMPLEMENTED
+}
+
+enum ChangeType {
+  MODIFY
+  ADD
+  REMOVE
+}
+
+enum ChangeStatus {
+  PENDING
+  APPROVED
+  REJECTED
+}
+
+enum ApprovalStatus {
+  PENDING
+  APPROVED
+  REJECTED
+}
+
+enum NotificationType {
+  CONTRACT_UPLOADED
+  EXTRACTION_COMPLETE
+  CHANGE_ORDER_SUBMITTED
+  APPROVAL_REQUIRED
+  APPROVAL_DECISION
+  DEADLINE_APPROACHING
+}

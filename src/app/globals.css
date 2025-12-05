@@ -1,26 +1,88 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+@theme {
+  /* Warm Professional Theme */
+  --color-background: #faf8f5;
+  --color-foreground: #2d2a26;
+  --color-card: #ffffff;
+  --color-card-foreground: #2d2a26;
+  --color-popover: #ffffff;
+  --color-popover-foreground: #2d2a26;
+  --color-primary: #6b5b4f;
+  --color-primary-foreground: #ffffff;
+  --color-secondary: #f5f2ed;
+  --color-secondary-foreground: #2d2a26;
+  --color-muted: #f0ebe4;
+  --color-muted-foreground: #78716c;
+  --color-accent: #e8e2d9;
+  --color-accent-foreground: #44403c;
+  --color-destructive: #b91c1c;
+  --color-destructive-foreground: #ffffff;
+  --color-border: #e7e0d5;
+  --color-input: #e7e0d5;
+  --color-ring: #6b5b4f;
+  
+  --font-sans: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  --font-serif: Georgia, 'Times New Roman', serif;
+  --font-mono: 'SF Mono', Monaco, 'Courier New', monospace;
+  
+  --radius-lg: 6px;
+  --radius-md: 4px;
+  --radius-sm: 2px;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+@layer base {
+  * {
+    border-color: var(--color-border);
+  }
+  
+  body {
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+  }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: var(--color-background);
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: var(--color-border);
+    border-radius: 4px;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: #c9c2b8;
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+@layer components {
+  .glass-panel {
+    background: #ffffff;
+    border: 1px solid var(--color-border);
+  }
+  
+  .stat-card {
+    background: #ffffff;
+    border: 1px solid var(--color-border);
+  }
+  
+  .stat-card:hover {
+    border-color: #d4ccc0;
+  }
+  
+  .term-card {
+    background: #ffffff;
+    border: 1px solid var(--color-border);
+  }
+  
+  .term-card:hover {
+    border-color: #d4ccc0;
+  }
 }

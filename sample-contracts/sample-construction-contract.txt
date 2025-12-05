@@ -1,0 +1,635 @@
+================================================================================
+                    CONSTRUCTION CONTRACT AGREEMENT
+================================================================================
+
+CONTRACT NO: CC-2024-0847
+DATE: November 15, 2024
+
+--------------------------------------------------------------------------------
+                              PARTIES TO CONTRACT
+--------------------------------------------------------------------------------
+
+OWNER:
+Riverside Development Corporation
+1250 Commerce Boulevard, Suite 400
+Austin, Texas 78701
+Contact: Margaret Chen, Director of Development
+Phone: (512) 555-0142
+Email: mchen@riversidedev.com
+
+GENERAL CONTRACTOR:
+Sterling Construction Partners, LLC
+8900 Industrial Parkway
+Austin, Texas 78745
+License No: TX-GC-78234
+Contact: Robert Martinez, Project Director
+Phone: (512) 555-0387
+Email: rmartinez@sterlingcp.com
+
+--------------------------------------------------------------------------------
+                            PROJECT DESCRIPTION
+--------------------------------------------------------------------------------
+
+PROJECT NAME: Riverside Mixed-Use Development - Phase II
+PROJECT LOCATION: 2400 East Riverside Drive, Austin, Texas 78741
+APN: 04-2847-0012-00
+
+PROJECT SCOPE:
+Construction of a 6-story mixed-use building containing:
+- Ground floor retail space: 18,500 square feet
+- Residential units (floors 2-6): 85 units total
+- Underground parking structure: 142 spaces
+- Rooftop amenity deck with pool
+- Associated site improvements and landscaping
+
+BUILDING SPECIFICATIONS:
+- Total Building Area: 127,000 gross square feet
+- Building Height: 78 feet
+- Structural System: Post-tensioned concrete
+- Exterior: Brick veneer with aluminum curtain wall system
+- HVAC: Central plant with individual unit controls
+
+================================================================================
+                         ARTICLE 1: CONTRACT PRICE
+================================================================================
+
+1.1 CONTRACT SUM
+The Owner agrees to pay the Contractor for the performance of the Work, subject
+to additions and deductions by Change Order, the Contract Sum of:
+
+FORTY-TWO MILLION THREE HUNDRED FIFTY THOUSAND DOLLARS ($42,350,000.00)
+
+1.2 COST BREAKDOWN BY DIVISION
+
+Division 1  - General Requirements.................. $2,117,500.00
+Division 2  - Site Construction.................... $3,388,000.00
+Division 3  - Concrete............................. $6,352,500.00
+Division 4  - Masonry.............................. $2,541,000.00
+Division 5  - Metals............................... $1,694,000.00
+Division 6  - Wood & Plastics...................... $847,000.00
+Division 7  - Thermal & Moisture Protection........ $2,117,500.00
+Division 8  - Doors & Windows...................... $2,964,500.00
+Division 9  - Finishes............................. $4,235,000.00
+Division 10 - Specialties.......................... $423,500.00
+Division 11 - Equipment............................ $1,270,500.00
+Division 12 - Furnishings.......................... $635,250.00
+Division 13 - Special Construction................. $846,000.00
+Division 14 - Conveying Systems.................... $1,270,500.00
+Division 15 - Mechanical........................... $6,352,500.00
+Division 16 - Electrical........................... $5,294,750.00
+                                                    ---------------
+TOTAL CONTRACT SUM................................. $42,350,000.00
+
+1.3 ALLOWANCES
+The following Allowances are included in the Contract Sum:
+- Finish Hardware Allowance: $185,000.00
+- Landscape Materials Allowance: $275,000.00
+- Kitchen Appliances Allowance: $340,000.00
+- Artwork and Signage Allowance: $95,000.00
+
+================================================================================
+                      ARTICLE 2: PAYMENT SCHEDULE
+================================================================================
+
+2.1 PROGRESS PAYMENTS
+The Owner shall make monthly progress payments to the Contractor based on
+Applications for Payment submitted by the Contractor.
+
+2.2 PAYMENT SCHEDULE AND MILESTONES
+
+MILESTONE 1: Mobilization & Site Preparation
+Due Date: December 15, 2024
+Payment: $2,117,500.00 (5% of Contract Sum)
+
+MILESTONE 2: Foundation Complete
+Due Date: March 1, 2025
+Payment: $4,235,000.00 (10% of Contract Sum)
+
+MILESTONE 3: Parking Structure Complete
+Due Date: May 15, 2025
+Payment: $4,235,000.00 (10% of Contract Sum)
+
+MILESTONE 4: Structural Frame - Level 3 Complete
+Due Date: July 1, 2025
+Payment: $4,235,000.00 (10% of Contract Sum)
+
+MILESTONE 5: Structural Frame - Topping Out
+Due Date: September 15, 2025
+Payment: $4,235,000.00 (10% of Contract Sum)
+
+MILESTONE 6: Building Envelope Watertight
+Due Date: November 30, 2025
+Payment: $4,235,000.00 (10% of Contract Sum)
+
+MILESTONE 7: MEP Rough-In Complete
+Due Date: February 1, 2026
+Payment: $4,235,000.00 (10% of Contract Sum)
+
+MILESTONE 8: Interior Finishes - 50% Complete
+Due Date: April 15, 2026
+Payment: $4,235,000.00 (10% of Contract Sum)
+
+MILESTONE 9: Interior Finishes - 100% Complete
+Due Date: June 15, 2026
+Payment: $4,235,000.00 (10% of Contract Sum)
+
+MILESTONE 10: Final Completion & Punch List
+Due Date: July 31, 2026
+Payment: $4,117,500.00 (balance minus retainage)
+
+FINAL PAYMENT: Release of Retainage
+Due Date: 30 days after Final Acceptance
+Payment: $2,117,500.00 (5% retainage)
+
+2.3 RETAINAGE
+Owner shall retain five percent (5%) of each progress payment until Final
+Completion. Retainage shall be released within 30 days of Final Acceptance,
+subject to submission of final lien waivers and warranties.
+
+2.4 PAYMENT TERMS
+- Applications for Payment due by the 25th of each month
+- Owner review period: 7 business days
+- Payment due within 30 days of approved application
+- Late payment interest: 1.5% per month
+
+================================================================================
+                    ARTICLE 3: PROJECT SCHEDULE
+================================================================================
+
+3.1 KEY DATES
+
+NOTICE TO PROCEED: December 1, 2024
+SUBSTANTIAL COMPLETION: July 15, 2026
+FINAL COMPLETION: July 31, 2026
+
+Total Contract Duration: 608 calendar days
+
+3.2 DETAILED SCHEDULE MILESTONES
+
+Phase 1: Pre-Construction & Mobilization
+- Permit Acquisition Complete: November 30, 2024
+- Construction Mobilization: December 1, 2024
+- Temporary Facilities Installed: December 15, 2024
+
+Phase 2: Site Work & Foundations
+- Demolition Complete: December 31, 2024
+- Excavation Complete: January 31, 2025
+- Foundation Concrete Pour: February 15, 2025
+- Foundation Waterproofing: February 28, 2025
+
+Phase 3: Parking Structure
+- P2 Level Deck Complete: March 31, 2025
+- P1 Level Deck Complete: April 30, 2025
+- Ground Level Deck Complete: May 15, 2025
+
+Phase 4: Superstructure
+- Level 2 Slab: June 1, 2025
+- Level 3 Slab: June 22, 2025
+- Level 4 Slab: July 13, 2025
+- Level 5 Slab: August 3, 2025
+- Level 6 Slab: August 24, 2025
+- Roof Deck: September 14, 2025
+
+Phase 5: Building Envelope
+- Curtain Wall Installation Start: August 1, 2025
+- Curtain Wall Complete: October 31, 2025
+- Roofing Complete: November 15, 2025
+- Building Watertight: November 30, 2025
+
+Phase 6: Interior Construction
+- MEP Rough-In Start: October 1, 2025
+- Drywall Start: December 1, 2025
+- Flooring Start: February 15, 2026
+- Paint Complete: April 30, 2026
+- Fixture Installation Complete: June 1, 2026
+
+Phase 7: Completion
+- Punch List Walk: June 15, 2026
+- Final Inspections: July 1-10, 2026
+- Certificate of Occupancy: July 12, 2026
+- Substantial Completion: July 15, 2026
+- Final Completion: July 31, 2026
+
+3.3 LIQUIDATED DAMAGES
+If the Contractor fails to achieve Substantial Completion by the date specified,
+the Contractor shall pay the Owner liquidated damages in the amount of:
+
+FIVE THOUSAND DOLLARS ($5,000.00) per calendar day
+
+Maximum liquidated damages shall not exceed 5% of the Contract Sum.
+
+3.4 EARLY COMPLETION BONUS
+If Substantial Completion is achieved more than 14 days before the scheduled
+date, Owner shall pay Contractor a bonus of:
+
+TWO THOUSAND FIVE HUNDRED DOLLARS ($2,500.00) per calendar day early
+
+Maximum bonus shall not exceed $75,000.00.
+
+================================================================================
+                    ARTICLE 4: SCOPE OF WORK
+================================================================================
+
+4.1 CONTRACTOR'S RESPONSIBILITIES
+
+The Contractor shall provide all labor, materials, equipment, tools, construction
+equipment and machinery, water, heat, utilities, transportation, and other
+facilities and services necessary for the proper execution and completion of
+the Work.
+
+4.2 INCLUDED WORK
+
+4.2.1 Site Work
+- Demolition of existing structures
+- Clearing and grubbing
+- Excavation and earthwork
+- Site utilities (water, sewer, storm, gas, electric, telecom)
+- Paving and hardscape
+- Landscaping and irrigation
+- Site lighting
+- Fencing and gates
+
+4.2.2 Building Construction
+- Foundations and structural systems
+- Building envelope (walls, roof, windows, doors)
+- Interior partitions and finishes
+- Mechanical, electrical, and plumbing systems
+- Fire protection systems
+- Elevator installation
+- Pool and amenity deck construction
+
+4.2.3 Required Submittals
+- Shop drawings for all structural and architectural elements
+- Product data sheets for all materials
+- Samples as specified
+- Mock-ups for exterior wall assembly
+- Coordination drawings for MEP systems
+
+4.3 OWNER-PROVIDED ITEMS
+The following items shall be provided by Owner:
+- FF&E (Furniture, Fixtures & Equipment) for common areas
+- Artwork per Allowance
+- Security system monitoring equipment
+- Property signage per Allowance
+
+4.4 EXCLUSIONS
+The following items are NOT included in this Contract:
+- Tenant improvements beyond base building
+- Moving and relocation services
+- Owner's construction management fees
+- Third-party testing and inspection fees (Owner responsibility)
+
+================================================================================
+                    ARTICLE 5: CHANGE ORDERS
+================================================================================
+
+5.1 CHANGE ORDER PROCESS
+
+5.1.1 Owner-Initiated Changes
+Owner may request changes to the Work at any time by written Change Order
+Request (COR). Contractor shall respond with pricing within 10 business days.
+
+5.1.2 Contractor-Initiated Changes
+If Contractor identifies conditions requiring changes, Contractor shall submit
+a Request for Information (RFI) or Change Order Proposal within 5 business days
+of discovery.
+
+5.1.3 Required Approvals
+- Changes under $25,000: Project Manager approval
+- Changes $25,000 - $100,000: Director of Development approval
+- Changes over $100,000: Board of Directors approval (14-day review period)
+
+5.2 CHANGE ORDER PRICING
+
+5.2.1 Labor Rates (per hour, including burden):
+- Superintendent: $95.00
+- General Foreman: $85.00
+- Journeyman: $72.00
+- Apprentice: $48.00
+- Laborer: $42.00
+
+5.2.2 Markups:
+- Contractor overhead on subcontractor work: 10%
+- Contractor profit on subcontractor work: 5%
+- Contractor overhead on self-performed work: 15%
+- Contractor profit on self-performed work: 10%
+- Bond premium adjustment: 1.5%
+
+5.3 TIME EXTENSIONS
+Change Orders affecting the critical path shall include appropriate time
+extensions. Contractor shall provide CPM schedule analysis demonstrating
+impact within 14 days of Change Order execution.
+
+================================================================================
+                    ARTICLE 6: INSURANCE REQUIREMENTS
+================================================================================
+
+6.1 CONTRACTOR'S INSURANCE
+
+6.1.1 Commercial General Liability
+- Per Occurrence: $2,000,000
+- General Aggregate: $4,000,000
+- Products/Completed Operations: $2,000,000
+- Personal & Advertising Injury: $1,000,000
+
+6.1.2 Automobile Liability
+- Combined Single Limit: $1,000,000
+
+6.1.3 Workers' Compensation
+- Statutory limits per Texas law
+- Employer's Liability: $1,000,000 per accident
+
+6.1.4 Umbrella/Excess Liability
+- Per Occurrence: $10,000,000
+- Aggregate: $10,000,000
+
+6.1.5 Professional Liability (if design services provided)
+- Per Claim: $2,000,000
+- Aggregate: $2,000,000
+
+6.1.6 Builder's Risk
+- Coverage Amount: Full Contract Value
+- Deductible: $25,000 per occurrence
+- Named Insureds: Owner, Contractor, Subcontractors
+
+6.2 ADDITIONAL INSURED STATUS
+Owner shall be named as Additional Insured on all policies except Workers'
+Compensation and Professional Liability.
+
+6.3 CERTIFICATE REQUIREMENTS
+Contractor shall provide Certificates of Insurance within 10 days of contract
+execution and maintain current certificates throughout the Project duration.
+
+================================================================================
+                    ARTICLE 7: WARRANTIES
+================================================================================
+
+7.1 GENERAL WARRANTY
+Contractor warrants that all Work shall be free from defects in materials and
+workmanship for a period of:
+
+ONE (1) YEAR from the Date of Substantial Completion
+
+7.2 EXTENDED WARRANTIES
+
+7.2.1 Roofing System
+- Manufacturer's warranty: 20 years (no dollar limit)
+- Contractor's workmanship warranty: 5 years
+
+7.2.2 Curtain Wall System
+- Manufacturer's warranty: 10 years on glass, 20 years on aluminum
+- Contractor's water infiltration warranty: 5 years
+
+7.2.3 HVAC Equipment
+- Manufacturer's warranty: 5 years parts, 1 year labor
+- Contractor's installation warranty: 2 years
+
+7.2.4 Elevator System
+- Manufacturer's warranty: 1 year full service
+- Recommended maintenance contract: Annual renewal
+
+7.2.5 Waterproofing (below-grade)
+- Manufacturer's warranty: 10 years
+- Contractor's workmanship warranty: 5 years
+
+7.2.6 Pool and Mechanical Equipment
+- Manufacturer's warranty per equipment specifications
+- Contractor's installation warranty: 2 years
+
+7.3 WARRANTY EXCLUSIONS
+Warranties shall not cover:
+- Normal wear and tear
+- Damage from Owner's improper maintenance
+- Acts of God or natural disasters
+- Unauthorized modifications by Owner
+
+================================================================================
+                    ARTICLE 8: INDEMNIFICATION
+================================================================================
+
+8.1 CONTRACTOR INDEMNIFICATION
+Contractor shall defend, indemnify, and hold harmless the Owner from and against
+all claims, damages, losses, and expenses arising out of or resulting from:
+- Contractor's negligent acts or omissions
+- Contractor's breach of contract
+- Claims by Contractor's employees or subcontractors
+- Patent or copyright infringement related to Contractor's work
+
+8.2 OWNER INDEMNIFICATION
+Owner shall defend, indemnify, and hold harmless the Contractor from and against
+all claims arising out of:
+- Owner's negligent acts or omissions
+- Defects in Owner-provided materials or equipment
+- Owner's breach of contract
+
+================================================================================
+                    ARTICLE 9: DISPUTE RESOLUTION
+================================================================================
+
+9.1 NEGOTIATION
+The parties shall attempt in good faith to resolve any dispute through direct
+negotiation within 15 business days.
+
+9.2 MEDIATION
+If negotiation fails, disputes shall be submitted to non-binding mediation
+before a mutually agreed mediator. Costs shall be shared equally.
+
+9.3 ARBITRATION
+If mediation fails, disputes shall be resolved by binding arbitration in
+accordance with the Construction Industry Arbitration Rules of the American
+Arbitration Association. Arbitration shall take place in Austin, Texas.
+
+9.4 CONTINUATION OF WORK
+Pending resolution of disputes, Contractor shall continue performance of the
+Work and Owner shall continue to make undisputed payments.
+
+================================================================================
+                    ARTICLE 10: TERMINATION
+================================================================================
+
+10.1 TERMINATION FOR CAUSE
+Owner may terminate for cause if Contractor:
+- Fails to supply adequate labor or materials
+- Fails to make payments to subcontractors
+- Persistently violates laws or contract requirements
+- Substantially abandons the Work
+
+Owner shall provide 7 days written notice and opportunity to cure.
+
+10.2 TERMINATION FOR CONVENIENCE
+Owner may terminate for convenience upon 14 days written notice. Contractor
+shall be entitled to payment for:
+- Work completed to date
+- Reasonable demobilization costs
+- Overhead and profit on work not performed (5% of remaining Contract Sum)
+
+10.3 CONTRACTOR'S RIGHT TO TERMINATE
+Contractor may terminate if Owner:
+- Fails to make payment within 60 days of approved application
+- Suspends work for more than 90 consecutive days
+- Materially breaches contract obligations
+
+================================================================================
+                    ARTICLE 11: SAFETY AND COMPLIANCE
+================================================================================
+
+11.1 SAFETY PROGRAM
+Contractor shall implement a comprehensive safety program complying with OSHA
+regulations and Owner's site safety requirements. A full-time Safety Manager
+shall be on-site during all construction activities.
+
+11.2 REGULATORY COMPLIANCE
+Contractor shall comply with all applicable:
+- Building codes and standards
+- Environmental regulations
+- OSHA requirements
+- ADA accessibility requirements
+- Local ordinances and permits
+
+11.3 SUSTAINABILITY REQUIREMENTS
+The Project shall achieve LEED Silver certification (minimum). Contractor shall:
+- Divert 75% of construction waste from landfill
+- Use materials with recycled content as specified
+- Implement construction IAQ management plan
+- Document all LEED credits during construction
+
+================================================================================
+                    ARTICLE 12: SPECIAL CONDITIONS
+================================================================================
+
+12.1 NOISE RESTRICTIONS
+Construction activities generating noise above 85 dB shall be limited to:
+- Monday through Friday: 7:00 AM to 6:00 PM
+- Saturday: 8:00 AM to 5:00 PM
+- No work on Sundays or major holidays
+
+12.2 TRAFFIC MANAGEMENT
+Contractor shall maintain access to adjacent businesses at all times. Heavy
+deliveries shall be scheduled between 9:00 AM and 3:00 PM to avoid rush hours.
+
+12.3 NEIGHBORHOOD COMMUNICATION
+Contractor shall provide monthly construction updates to adjacent property
+owners and maintain a 24-hour complaint hotline.
+
+12.4 ARCHAEOLOGICAL DISCOVERY
+If archaeological or paleontological materials are discovered, Contractor shall
+immediately cease work in that area and notify Owner. Work may not resume until
+authorized by the Texas Historical Commission.
+
+================================================================================
+                         SIGNATURES
+================================================================================
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date
+first written above.
+
+OWNER: RIVERSIDE DEVELOPMENT CORPORATION
+
+By: _________________________________
+    Margaret Chen, Director of Development
+
+Date: _______________________________
+
+
+GENERAL CONTRACTOR: STERLING CONSTRUCTION PARTNERS, LLC
+
+By: _________________________________
+    Robert Martinez, Project Director
+
+Date: _______________________________
+
+
+WITNESS:
+
+_____________________________________
+Print Name: _________________________
+Date: _______________________________
+
+
+================================================================================
+                    EXHIBIT A: DRAWINGS AND SPECIFICATIONS
+================================================================================
+
+The following drawings and specifications are incorporated by reference:
+
+ARCHITECTURAL:
+- A-001 through A-150: Architectural Drawings dated October 1, 2024
+- Project Manual Divisions 1-14 dated October 1, 2024
+
+STRUCTURAL:
+- S-001 through S-085: Structural Drawings dated October 1, 2024
+
+MECHANICAL:
+- M-001 through M-065: Mechanical Drawings dated October 1, 2024
+- Project Manual Division 15 dated October 1, 2024
+
+ELECTRICAL:
+- E-001 through E-055: Electrical Drawings dated October 1, 2024
+- Project Manual Division 16 dated October 1, 2024
+
+CIVIL:
+- C-001 through C-025: Civil Drawings dated October 1, 2024
+
+LANDSCAPE:
+- L-001 through L-015: Landscape Drawings dated October 1, 2024
+
+================================================================================
+                    EXHIBIT B: SUBCONTRACTOR LIST
+================================================================================
+
+The following major subcontractors have been approved for this Project:
+
+CONCRETE: Austin Concrete Works, Inc.
+License: TX-CON-45892
+Contract Value: $5,200,000
+
+STRUCTURAL STEEL: Lone Star Steel Erectors
+License: TX-STL-23456
+Contract Value: $1,450,000
+
+MECHANICAL/HVAC: Central Texas Mechanical
+License: TX-HVAC-78901
+Contract Value: $5,100,000
+
+ELECTRICAL: PowerTech Electric, LLC
+License: TX-ELEC-34567
+Contract Value: $4,200,000
+
+PLUMBING: Hill Country Plumbing Contractors
+License: TX-PLB-56789
+Contract Value: $1,850,000
+
+FIRE PROTECTION: Capitol Fire Systems
+License: TX-FIRE-12345
+Contract Value: $980,000
+
+ELEVATOR: ThyssenKrupp Elevator
+Contract Value: $1,150,000
+
+CURTAIN WALL: Architectural Glass Systems
+Contract Value: $2,400,000
+
+ROOFING: Benchmark Roofing Company
+License: TX-ROOF-67890
+Contract Value: $1,100,000
+
+================================================================================
+                    EXHIBIT C: INSURANCE CERTIFICATES
+================================================================================
+
+[Insurance certificates to be attached upon contract execution]
+
+================================================================================
+                    EXHIBIT D: PAYMENT BOND & PERFORMANCE BOND
+================================================================================
+
+[Bonds to be attached upon contract execution]
+
+Performance Bond Amount: $42,350,000.00
+Payment Bond Amount: $42,350,000.00
+Surety: American Contractors Insurance Company
+
+================================================================================
+                         END OF CONTRACT
+================================================================================
+
