@@ -2,8 +2,6 @@
 
 An AI-powered platform that automatically reads construction contracts and tracks changes throughout the project lifecycle. Turn complex construction contracts into clear, living documents with smart notifications and approval workflows.
 
-![ContractIQ Dashboard](docs/dashboard-preview.png)
-
 ## Features
 
 ### Contract Analysis
